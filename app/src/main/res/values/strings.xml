@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">国選択</string>
+    <string-array name="nations">
+        <item>日本</item>
+        <item>アメリカ</item>
+        <item>ロシア</item>
+        <item>イギリス</item>
+        <item>フランス</item>
+        <item>ドイツ</item>
+        <item>イタリア</item>
+        <item>スペイン</item>
+        <item>カナダ</item>
+        <item>中国</item>
+        <item>韓国</item>
+        <item>インド</item>
+        <item>サウジアラビア</item>
+        <item>ブラジル</item>
+        <item>チリ</item>
+    </string-array>
+</resources>
